@@ -168,30 +168,14 @@ body{
     padding: 10px 25px;
     text-transform: uppercase;
     line-height: 2px;
-    transition: .5s;
+    transition: 0.9s;
 }
 
 .buttom-link a:hover{
     background-color: transparent;
+    border: 1px solid crimson;
 }
 
-
-.buttom-link1{
-    margin-top: 30px;
-    border: 0;
-    background: transparent;
-}
-
-.buttom-link1 a{
-    background-color: crimson;
-    border-radius: 60px;
-    font-size: 15px;
-    color: #fff;
-    padding: 10px 25px;
-    text-transform: uppercase;
-    line-height: 2px;
-    transition: .5s;
-}
 
 /*Compétences CSS*/
 
