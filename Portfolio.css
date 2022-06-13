@@ -595,6 +595,7 @@ footer{
         flex-direction: column;
         justify-content: space-between;
         transition: 0.5s;
+        transform: rotate(45deg);
     }
 
     .small_menu span div {
@@ -620,7 +621,6 @@ footer{
         align-items: center;
         justify-content: center;
         transition: 0.5s;
-        transform: ;
     }
 
     .small_menu.active span div{
